@@ -315,14 +315,16 @@ Conteúdos alternativos: ranking (tempo, placar, etc.), outro personagem seguind
 
 ### Referências
 
-[Make Games With Katie UE4 Beginner’s Tutorial](https://www.youtube.com/watch?v=iTwxuahe5B4](https://www.youtube.com/watch?v=iTwxuahe5B4)
+[Make Games With Katie UE4 Beginner’s Tutorial](https://www.youtube.com/watch?v=iTwxuahe5B4)
+
 [Mateus Quadros](https://www.youtube.com/c/MateusQuadros/videos)
+
 [Evil Cube Example](https://www.youtube.com/watch?v=QJpfLkEsoek)
 
-[https://www.youtube.com/playlist?list=PLpZBns8dFbgwXYMrgvZ0H0vDsq4o9YbkQ](https://www.youtube.com/playlist?list=PLpZBns8dFbgwXYMrgvZ0H0vDsq4o9YbkQ)
-[Introduction to Common UI](https://www.youtube.com/watch?v=TTB5y-03SnE)
 
-  
+[https://www.youtube.com/playlist?list=PLpZBns8dFbgwXYMrgvZ0H0vDsq4o9YbkQ](https://www.youtube.com/playlist?list=PLpZBns8dFbgwXYMrgvZ0H0vDsq4o9YbkQ)
+
+[Introduction to Common UI](https://www.youtube.com/watch?v=TTB5y-03SnE)
 
 Menu/HUD (https://www.youtube.com/watch?v=ygOO1vHsq5M, https://www.youtube.com/watch?v=UOHS3xx9EHw)
 
